@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://campo-grande.desenvolvimentodeapps.com/sitemap.xml
